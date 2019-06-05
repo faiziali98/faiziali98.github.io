@@ -1,0 +1,29 @@
+<div style="margin-bottom:30px;"><img src="./Faizan_files/profile_pic_4.jpg" width="210"></div>
+
+<div class="navtitle"><a href="https://faiziali98.github.io/index.html" style="font-size:13pt;">Home</a></div>
+
+<!-- <div class="navtitle"><a href="https://msu.edu/~alikamr3/publications.html" style="font-size:13pt;">Publications &amp; Patents</a></div>
+
+<div class="navtitle"><a href="https://msu.edu/~alikamr3/research.html" style="font-size:13pt;">Research</a></div> -->
+
+<div class="navtitle"><a href="https://faiziali98.github.io/Faizan_files/faizan_CV.pdf" style="font-size:13pt;">Resume</a></div>
+<!-- <h> </h><h>  </h><a href="https://msu.edu/~alikamr3/pdf/KamranAli_Short.pdf"><h style="font-size:10pt; color:#424949 ">(short version)</h></a></div> -->
+
+<div class="navtitle"><a href="https://msu.edu/~alikamr3/contact.html" style="font-size:13pt;">Contact</a></div>
+
+<div style="margin-bottom:0px;">
+  
+  <a href="mailto:fali18@ku.edu.tr" target="_blank"><img src="./Faizan_files/gmail_logo.png" width="30" hspace="2"></a>
+  <a href="https://www.linkedin.com/in/faiziali436/" target="_blank"><img src="./Faizan_files/linkedin_logo.png" width="26" hspace="2"></a>
+  
+    <a href="https://www.facebook.com/faizi.ali.98" target="_blank"><img src="./Faizan_files/facebook_logo.png" width="26" hspace="2"></a>
+  
+ <!--  <a href="https://github.com/tahakhan5" target="_blank"><img src="images/git_logo.png" width="28" hspace="4"></a> -->
+  
+ <!--  <a href="https://twitter.com/mtahakhan5" target="_blank"><img src="images/twitter_logo.png" width="35" hspace="2"></a> -->
+  
+<a href="https://www.quora.com/profile/Faizi-Ali-%D9%81%DB%8C%D8%B6%D8%A7%D9%86-%D8%B9%D9%84%DB%8C-%E0%A4%AB%E0%A5%88%E0%A5%9B%E0%A4%BE%E0%A4%A8-%E0%A4%85%E0%A4%B2%E0%A5%80" target="_blank"><img src="./Faizan_files/quora_logo.png" width="30" hspace="2"></a>
+ 
+  <a href="https://github.com/faiziali98" target="_blank"><img src="./Faizan_files/github_logo.png" width="29" height="29" hspace="2"></a>
+
+</div>
