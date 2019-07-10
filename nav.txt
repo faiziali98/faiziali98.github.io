@@ -9,7 +9,7 @@
 <div class="navtitle"><a href="https://faiziali98.github.io/Faizan_files/faizan_CV.pdf" style="font-size:13pt;">Resume</a></div>
 <!-- <h> </h><h>  </h><a href="https://msu.edu/~alikamr3/pdf/KamranAli_Short.pdf"><h style="font-size:10pt; color:#424949 ">(short version)</h></a></div> -->
 
-<div class="navtitle"><a href="https://msu.edu/~alikamr3/contact.html" style="font-size:13pt;">Contact</a></div>
+<div class="navtitle"><a href="https://faiziali98.github.io/contact.html" style="font-size:13pt;">Contact</a></div>
 
 <div style="margin-bottom:0px;">
   
