@@ -51,11 +51,14 @@ div#navigation {position:relative;
                 padding-top:30px;
                 padding-right:2px;
                 padding-left:20px;}  
-.sticky {
+div.sticky {
   position: fixed;
-  top: 0;
   width: 100%;
-}         
+  left: 0;
+  top: 0;
+  z-index: 100;
+  border-top: 0;
+}   
                   
 div#main {float:left;
           min-height:400px;
