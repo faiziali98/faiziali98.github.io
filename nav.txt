@@ -9,9 +9,10 @@
 <div class="navtitle"><a href="https://faiziali98.github.io/Faizan_files/faizan_CV.pdf" style="font-size:13pt;">Resume</a></div>
 <!-- <h> </h><h>  </h><a href="https://msu.edu/~alikamr3/pdf/KamranAli_Short.pdf"><h style="font-size:10pt; color:#424949 ">(short version)</h></a></div> -->
 
+<div class="navtitle"><a href="https://faiziali98.github.io/pub.html" style="font-size:13pt;">Publications</a></div>
+<div class="navtitle"><a href="https://faiziali98.github.io/online_courses.html" style="font-size:13pt;">Courses</a></div>
 <div class="navtitle"><a href="https://faiziali98.github.io/hobbies_and_avitivites.html" style="font-size:13pt;">Hobbies and Avitivites</a></div>
 <div class="navtitle"><a href="https://faiziali98.github.io/contact.html" style="font-size:13pt;">Contact</a></div>
-
 <div style="margin-bottom:0px;">
   
   <a href="mailto:fali18@ku.edu.tr" target="_blank"><img src="./Faizan_files/gmail_logo.png" width="30" hspace="2"></a>
