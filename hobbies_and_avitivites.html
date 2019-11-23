@@ -28,7 +28,7 @@
 		    // if we've scrolled more than the navigation, change its position to fixed to stick to top,
 		    // otherwise change it back to relative
 		    if (scrollTop > stickyNavTop) { 
-		        $('#navigation').addClass('sticky');
+		    	$('#navigation').css('padding-top',''+(scrollTop+30)+'px');
 		    } else {
 		        $('#navigation').removeClass('sticky'); 
 		    }
