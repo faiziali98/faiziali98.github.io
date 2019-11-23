@@ -50,7 +50,12 @@ div#navigation {position:relative;
                 text-align:left;
                 padding-top:30px;
                 padding-right:2px;
-                padding-left:20px;}           
+                padding-left:20px;}  
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}         
                   
 div#main {float:left;
           min-height:400px;
