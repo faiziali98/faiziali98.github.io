@@ -34,7 +34,8 @@ div  {position:relative;
       margin:0px;
       padding:0px;}
 
-div#container{width:975px;
+div#container{min-width: 300px;
+  max-width:975px;
               margin-left:auto;
             margin-right:auto;}
   
@@ -47,7 +48,7 @@ div#header {
           
 div#navigation {position:relative;
                 float:left;
-                width:200px;
+                max-width:200px;
                 text-align:left;
                 padding-top:30px;
                 padding-right:2px;
@@ -64,12 +65,14 @@ div.sticky {
 div#main {float:left;
           min-height:400px;
           max-width:715px;
+          min-width: 300px;
           padding-left:20px;
           padding-right:2px;
           text-align:left;}     
               
 div#lower {float:left;
-           width:975px;
+           max-width:975px;
+           min-width: 300px;
            border-top:1px solid #bbbbbb;
          padding:5px;
          margin: 30px 0px;
