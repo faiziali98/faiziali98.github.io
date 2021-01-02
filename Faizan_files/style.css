@@ -9,13 +9,14 @@ body {
 }
 
 a    {text-decoration:none;
-      color:#3284bf;} 
+      color:#800000;
+    font-weight: 600;} 
 
 a:hover {text-decoration:underline;}
 
 a.researchsection {font-size:18px;
                    font-weight:bold;
-                   color:#3284bf;}
+                   color:#800000;}
                    
 a.researchsection:hover {text-decoration:none;}   
    
@@ -90,11 +91,11 @@ div.navtitle {font-family: 'Goudy Old Style', Garamond, 'Big Caslon', 'Times New
               padding:4px;
               padding-left:4px;
               font-size:14pt;
-              color: #3284bf;}
+              color: #800000;}
 
 div.navtitle a {font-family: 'Goudy Old Style', Garamond, 'Big Caslon', 'Times New Roman', serif;
                 font-size:14pt;
-                color:#3284bf;}                       
+                color:#800000;}                       
                             
 div.navtitle a:hover {text-decoration:underline;}               
 #footer-right{
@@ -106,7 +107,7 @@ img {border:none}
 h1 {
   font-family: 'Goudy Old Style', Garamond, 'Big Caslon', 'Times New Roman', serif;
   font-size: 36px;
-  color:#3284bf;
+  color:#800000;
   font-style: normal;
   font-variant: normal;
   font-weight: 500;
