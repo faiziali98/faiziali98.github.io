@@ -3,4 +3,4 @@
 <h3>Department of Engineering</h3>
 <h3>Ko&ccedil; University</h3>
 </div>
-<div style="float:right;margin-left:20px;top:37px;"><a href="https://eng.ku.edu.tr/en/academics/computer-engineering/" ><img src="./Faizan_files/eng-logo-en.png" height="82" atl='koc-university'></a></div>
+<div style="float:right;margin-left:20px;top:37px;"><a href="https://eng.ku.edu.tr/en/academics/computer-engineering/" ><img src="./Faizan_files/eng-logo-en.png" height="82" alt='koc-university'></a></div>
