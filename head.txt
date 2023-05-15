@@ -1,5 +1,0 @@
-<div style="float:left; margin-top:28px">
-<h1>Faizan Safdar Ali</h1>
-</div>
-<div style="float:right;margin-left:20px;top:37px;">
-</div>
