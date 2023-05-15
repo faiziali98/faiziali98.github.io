@@ -38,7 +38,8 @@ const socialMediaLinks = {
   gmail: "faiziali436@gmail.com",
   facebook: "https://www.facebook.com/faizi.ali.98",
   medium: "https://medium.com/@faizan-ali",
-  stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
+  stackoverflow: "https://stackoverflow.com/users/17276328/faizan-safdar-ali",
+  googlescholar: "https://scholar.google.com.tr/citations?user=vWkIM_cAAAAJ&hl=en",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -114,7 +115,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "java",
-      fontAwesomeClassname: "fab fa-java-spring"
+      fontAwesomeClassname: "fab fa-java"
     },
     {
       skillName: "docker",
@@ -130,23 +131,26 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Harvard University",
-      logo: require("./assets/images/harvardLogo.png"),
+      schoolName: "Koc University",
+      logo: require("./assets/images/kocLogo.png"),
       subHeader: "Master of Science in Computer Science",
-      duration: "September 2017 - April 2019",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      duration: "February 2019 - September 2020",
+      desc: "Participated in the research of 'Blockchain Applications in Energy Trading' and published 6 papers.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Award: IEEE Computer Turkey 2nd Best Thesis, KUTEM and UAE grant, Mentor Senior Year Project",
+        "Teaching Assistant: Computer Networks, Software Engineering, Senior Year Project"
       ]
     },
     {
-      schoolName: "Stanford University",
-      logo: require("./assets/images/stanfordLogo.png"),
+      schoolName: "Lahore University Of Management Sciences",
+      logo: require("./assets/images/lumsLogo.png"),
       subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      duration: "August 2013 - July 2017",
+      desc: "Got NOP Scholarship for 4 years",
+      descBullets: [
+        "Relevant Courses: Data Mining, Machine Learning, Problem Solving and Algorithms, Artificial Intelligence",
+        "Teaching Assistant: Programming in C++, Assembly Language, Digital Logic Circuits"
+      ]
     }
   ]
 };
@@ -182,29 +186,44 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "Software Development Engineer",
+      company: "Amazon",
+      companylogo: require("./assets/images/amazonLogo.png"),
+      date: "August 2022 – Present",
+      desc: "Working on better and consistent discover-ability of products across pages for millions of users.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Tech Stack: Python, Java, TypeScript, AWS.",
+        "Designed and implemented cache to reduce million of requests to a few hundred.",
+        "Developed widgets to be used across multiple Amazon pages.",
+        "Invented warm-build for Java to reduce testing time from 8 minutes to 1-2 minutes."
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Backend Engineer II",
+      company: "Careem (Uber)",
+      companylogo: require("./assets/images/careemLogo.png"),
+      date: "May 2022 – August 2018",
+      desc: "Worked at Careem pay division; an online payment method for more than 10 million users.",
+      descBullets: [
+        "Tech Stack: Python, Java Spring Boot, NodeJS, AWS.",
+        "Developed dynamic configuration for Careem pay One-click checkout service using Java Spring Boot.",
+        "Designed and implemented best possible data layer for Careem pay merchant orders using Cassandra DB.",
+        "Developed automation using Python for migration from SQL.",
+        "Designed solution to scale with on-soiling cloud infrastructure available and migration from AWS."
+      ]
     },
     {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Full Stack Engineer - Tech Lead",
+      company: "Educative",
+      companylogo: require("./assets/images/educativeLogo.webp"),
+      date: "Oct 2020 – May 2022",
+      desc: "Educative is an online learning platform used by more than 1 million users.",
+      descBullets: [
+        "Tech Stack: Python, ReactJs, NodeJS, Cloudflare, Docker and GCP.",
+        "Designed, implemented and tested marketing tools and Educative free trails.",
+        "Improved site-wide search, used Cloudflare to reduce calls to Google cluster by 90% and price upto 20%.",
+        "Designed, developed and tested ’Copy Work’ to create course copies. Resulted in 40+ (growing) new courses.",
+      ]
     }
   ]
 };
