@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.73ffea83.css",
-    "main.js": "/static/js/main.2a26fff9.js",
+    "main.css": "/static/css/main.a8613316.css",
+    "main.js": "/static/js/main.ffd83787.js",
     "static/css/64.917cfe77.chunk.css": "/static/css/64.917cfe77.chunk.css",
     "static/js/64.a2201178.chunk.js": "/static/js/64.a2201178.chunk.js",
     "static/css/769.70f3b610.chunk.css": "/static/css/769.70f3b610.chunk.css",
     "static/js/769.7f15e30f.chunk.js": "/static/js/769.7f15e30f.chunk.js",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/profileImage.jfif": "/static/media/profileImage.0fbbb7ed1a4b24a13f85.jfif",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/careemLogo.png": "/static/media/careemLogo.aa7be449d9bb400d2ae0.png",
     "static/media/kocLogo.png": "/static/media/kocLogo.a31e21fd06bfe62cff46.png",
@@ -24,15 +25,15 @@
     "static/media/nextuLogo.webp": "/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
     "static/media/educativeLogo.webp": "/static/media/educativeLogo.b0395de9fe4d71f9368b.webp",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.73ffea83.css.map": "/static/css/main.73ffea83.css.map",
-    "main.2a26fff9.js.map": "/static/js/main.2a26fff9.js.map",
+    "main.a8613316.css.map": "/static/css/main.a8613316.css.map",
+    "main.ffd83787.js.map": "/static/js/main.ffd83787.js.map",
     "64.917cfe77.chunk.css.map": "/static/css/64.917cfe77.chunk.css.map",
     "64.a2201178.chunk.js.map": "/static/js/64.a2201178.chunk.js.map",
     "769.70f3b610.chunk.css.map": "/static/css/769.70f3b610.chunk.css.map",
     "769.7f15e30f.chunk.js.map": "/static/js/769.7f15e30f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.73ffea83.css",
-    "static/js/main.2a26fff9.js"
+    "static/css/main.a8613316.css",
+    "static/js/main.ffd83787.js"
   ]
 }
