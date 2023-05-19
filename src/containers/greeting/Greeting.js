@@ -39,6 +39,11 @@ export default function Greeting() {
               </p>
               <SocialMedia />
               <div className="button-greeting-div">
+                {/* <img
+                  crossOrigin={"anonymous"}
+                  src={greeting.image}
+                  className="greeting-img"
+                /> */}
                 <Button text="Contact me" href="#contact" />
                 {greeting.resumeLink && (
                   <Button

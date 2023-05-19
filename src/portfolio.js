@@ -20,10 +20,11 @@ const illustration = {
 };
 
 const greeting = {
+  image: require("./assets/images/profileImage.jfif"),
   username: "Faizan Safdar Ali",
   title: "Hi all, I'm Faizan",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with Java / Python / JavaScript / TypeScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "A passionate Researcher and a Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with Java / Python / JavaScript / TypeScript / Reactjs / Nodejs / React Native / Blockchain / Ethereum / Smart Contracts / Web3 and some other cool libraries and frameworks."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1l6gaI2quKuLSpw9-6HT6oiSj9nhimliN/view?usp=sharing", // Set to empty to hide the button
@@ -266,7 +267,7 @@ const bigProjects = {
       ]
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Achievement Section
@@ -279,51 +280,39 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "Best Thesis Award",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
-      imageAlt: "Google Code-In Logo",
+        "Awarded 2nd best thesis award by IEEE Computer.",
+      image: require("./assets/images/logo-ieee-computer-society.png"),
+      imageAlt: "IEEE Computer",
       footerLink: [
         {
-          name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
-        },
-        {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+          name: "Award Announcement",
+          url: "https://www.linkedin.com/feed/update/urn:li:activity:6855833192117624832/"
         }
       ]
     },
     {
-      title: "Google Assistant Action",
+      title: "TUBITAK Research Award",
       subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
-      imageAlt: "Google Assistant Action Logo",
+        "My research was granted TÜBİTAK 2247-A National Leader Researchers Project award.",
+      image: require("./assets/images/tubitakLogo.png"),
+      imageAlt: "TUBITAK  Logo",
       footerLink: [
         {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          name: "Award Announcement",
+          url: "https://www.linkedin.com/feed/update/urn:li:activity:6936323885172674560?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6936323885172674560%29"
         }
       ]
     },
 
     {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
+      title: "Applied Data Science with Python (Specialization)",
+      subtitle: "Completed Certifcation from Coursera and course if offered by University of Michigan",
+      image: require("./assets/images/uMichLogo.jfif"),
       imageAlt: "PWA Logo",
       footerLink: [
-        {name: "Certification", url: ""},
-        {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
-        }
+        {name: "Certification", url: "https://coursera.org/share/beca69ac4456914d2371ed04cdbbc4fc"},
       ]
     }
   ],

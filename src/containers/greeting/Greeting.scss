@@ -25,6 +25,22 @@
   display: flex;
 }
 
+.greeting-heading-div {
+  display: flex;
+  flex-direction: row;
+}
+
+.greeting-img {
+  display: flex;
+  object-fit: cover;
+  margin-left: auto;
+  margin-right: auto;
+  width: 8rem;
+  height: 8rem;
+  box-shadow: 0 0.5rem 1rem $lightBoxShadowDarker;
+  border-radius: 50%;
+}
+
 .greeting-main > * {
   flex: 1;
   margin-bottom: 30px;
@@ -92,6 +108,10 @@
   }
 }
 @media (max-width: 768px) {
+  .greeting-img {
+    width: 6.5rem;
+    height: 6.5rem;
+  }
   .button-greeting-div {
     justify-content: space-around;
   }
