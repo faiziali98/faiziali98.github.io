@@ -1,32 +1,32 @@
 {
   "files": {
     "main.css": "/static/css/main.a8613316.css",
-    "main.js": "/static/js/main.ffd83787.js",
+    "main.js": "/static/js/main.18cc73ac.js",
     "static/css/64.917cfe77.chunk.css": "/static/css/64.917cfe77.chunk.css",
     "static/js/64.a2201178.chunk.js": "/static/js/64.a2201178.chunk.js",
     "static/css/769.70f3b610.chunk.css": "/static/css/769.70f3b610.chunk.css",
     "static/js/769.7f15e30f.chunk.js": "/static/js/769.7f15e30f.chunk.js",
+    "static/media/logo-ieee-computer-society.png": "/static/media/logo-ieee-computer-society.1b3cb9f38952f888e974.png",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/profileImage.jfif": "/static/media/profileImage.0fbbb7ed1a4b24a13f85.jfif",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/tubitakLogo.png": "/static/media/tubitakLogo.0e394e206faab83d4545.png",
     "static/media/careemLogo.png": "/static/media/careemLogo.aa7be449d9bb400d2ae0.png",
     "static/media/kocLogo.png": "/static/media/kocLogo.a31e21fd06bfe62cff46.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
-    "static/media/googleAssistantLogo.webp": "/static/media/googleAssistantLogo.f720c71652579588524a.webp",
     "static/media/lumsLogo.png": "/static/media/lumsLogo.72b6b2d632872790e534.png",
     "static/media/amazonLogo.png": "/static/media/amazonLogo.43e93fc5882a6ef77b4d.png",
-    "static/media/codeInLogo.webp": "/static/media/codeInLogo.e41a71d512efeda2a55c.webp",
     "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
-    "static/media/pwaLogo.webp": "/static/media/pwaLogo.8bf2293da0ca66249e37.webp",
+    "static/media/uMichLogo.jfif": "/static/media/uMichLogo.a140b56c69189ce43f62.jfif",
     "static/media/saayaHealthLogo.webp": "/static/media/saayaHealthLogo.60b27d1f184fadfce43a.webp",
     "index.html": "/index.html",
     "static/media/nextuLogo.webp": "/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
     "static/media/educativeLogo.webp": "/static/media/educativeLogo.b0395de9fe4d71f9368b.webp",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.a8613316.css.map": "/static/css/main.a8613316.css.map",
-    "main.ffd83787.js.map": "/static/js/main.ffd83787.js.map",
+    "main.18cc73ac.js.map": "/static/js/main.18cc73ac.js.map",
     "64.917cfe77.chunk.css.map": "/static/css/64.917cfe77.chunk.css.map",
     "64.a2201178.chunk.js.map": "/static/js/64.a2201178.chunk.js.map",
     "769.70f3b610.chunk.css.map": "/static/css/769.70f3b610.chunk.css.map",
@@ -34,6 +34,6 @@
   },
   "entrypoints": [
     "static/css/main.a8613316.css",
-    "static/js/main.ffd83787.js"
+    "static/js/main.18cc73ac.js"
   ]
 }
